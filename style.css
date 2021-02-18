@@ -1,0 +1,12 @@
+
+.shop {
+    border: 1px dotted black;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: left; 
+    max-width: 150px;
+    max-height: 50px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
