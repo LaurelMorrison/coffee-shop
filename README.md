@@ -1,4 +1,4 @@
-# coffee-shop
+# demo-coffeeShop
 
 ## Project Outline
 The learning objective for this practice exercise is to use display:flex on a list component, and then add additional CSS properties to achieve a desired layout.
