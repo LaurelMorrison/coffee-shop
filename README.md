@@ -13,3 +13,4 @@ Basic practice on how to best utilize flexbox and css.
 [![Generic badge](https://img.shields.io/badge/CSS-FlexBox-<Green>.svg)](https://shields.io/)
 
 ## Visual
+![Screen Shot 2021-03-11 at 1 01 31 PM](https://user-images.githubusercontent.com/78938657/110833040-fba4f180-8269-11eb-8fbf-444603259024.png)
